@@ -31,9 +31,7 @@ I have hands-on experience working on a variety of projects, ranging from simple
 - Data Structure and Algorithms
 - MERN in Advanced Level
 
-## 📈 GitHub Stats
 
-![Avanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanishgupta07&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
