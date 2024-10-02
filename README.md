@@ -8,7 +8,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in web develo
 
 I have hands-on experience working on a variety of projects, ranging from simple landing pages to more complex web applications. My work focuses on writing clean, efficient code and creating seamless user experiences.
 
-🎓 I recently completed my **B.Tech** from **Rajkiya Engineering College** in July 2024.
+🎓 I recently completed my **B.Tech** in July 2024.
 
 ## 💼 Experience
 
