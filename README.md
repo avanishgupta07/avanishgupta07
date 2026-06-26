@@ -153,10 +153,7 @@ IIT Kanpur | Mar 2022
 Dr. APJ Abdul Kalam Technical University, Lucknow
 📅 Oct 2020 – Jul 2024
 
-### Senior Secondary (CBSE)
 
-St. Xavier's High School, Azamgarh
-🏆 93%
 
 ---
 
