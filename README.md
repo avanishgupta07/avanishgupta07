@@ -1,21 +1,44 @@
-# 👋 Hi, I'm Avanish
+# 👋 Hi, I'm Avanish Gupta
 
-### Full Stack Developer | Next.js • Node.js • PostgreSQL • AWS
+### Full Stack Developer · Next.js · Node.js · PostgreSQL · AWS
 
-<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giph.gif" />
+
+I'm a **Full Stack Developer** with 1+ year of experience building **scalable, secure, and high-performance web applications**.
+
+I specialize in modern JavaScript technologies and enjoy working across the entire stack — from creating intuitive frontend experiences to designing efficient backend systems and deploying production applications on AWS.
+
+---
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer with 1+ year of experience building scalable, secure, and high-performance web applications.
-
-My expertise lies in developing modern web applications using **Next.js, React.js, Node.js, Express.js, PostgreSQL, MySQL, Redis, and AWS**. I enjoy solving complex problems, designing efficient backend architectures, and delivering seamless user experiences.
-
-I have hands-on experience in REST API development, authentication systems, database optimization, cloud deployment, CI/CD automation, and performance tuning.
-
-## 📫 Connect With Me
-
-📧 Email: [avanishguptaaza@gmail.com](mailto:avanishguptaaza@gmail.com)
-
+* 💻 Building full-stack applications with **Next.js, React & Node.js**
+* 🔧 Developing scalable **REST APIs** with Express.js
+* 🗄️ Designing and optimizing **PostgreSQL & MySQL** databases
+* ⚡ Using **Redis** for caching and performance optimization
+* 🔐 Implementing authentication and secure application architecture
+* ☁️ Deploying applications and infrastructure with **AWS**
+* 🔄 Working with **CI/CD and cloud deployments**
+* 📈 Focused on performance, scalability, and clean architecture
 
 ---
-⭐️ Thanks for visiting my profile! Feel free to connect, collaborate, and build something amazing together.
+
+
+## 💡 What I Enjoy
+
+> **Building reliable systems, solving complex problems, and turning ideas into production-ready applications.**
+
+I particularly enjoy backend architecture, database optimization, API design, cloud deployment, and improving application performance.
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** [avanishguptaaza@gmail.com](mailto:avanishguptaaza@gmail.com)
+
+💬 Feel free to reach out if you'd like to **collaborate, discuss technology, or build something interesting together.**
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
