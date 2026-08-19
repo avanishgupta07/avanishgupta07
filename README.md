@@ -15,12 +15,7 @@ I have hands-on experience in REST API development, authentication systems, data
 ## 📫 Connect With Me
 
 📧 Email: [avanishguptaaza@gmail.com](mailto:avanishguptaaza@gmail.com)
-
-📱 Phone: +91-8382026262
-
 🐙 GitHub: github.com/avanishgupta07
-
-⚡ LeetCode: leetcode.com/u/avanishguptaaza
 
 
 ---
