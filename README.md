@@ -15,7 +15,6 @@ I have hands-on experience in REST API development, authentication systems, data
 ## 📫 Connect With Me
 
 📧 Email: [avanishguptaaza@gmail.com](mailto:avanishguptaaza@gmail.com)
-🐙 GitHub: github.com/avanishgupta07
 
 
 ---
