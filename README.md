@@ -12,11 +12,6 @@ My expertise lies in developing modern web applications using **Next.js, React.j
 
 I have hands-on experience in REST API development, authentication systems, database optimization, cloud deployment, CI/CD automation, and performance tuning.
 
-Alongside development, I am passionate about Data Structures and Algorithms and have solved **700+ coding problems** across various platforms, achieving a **LeetCode Contest Rating of 1700+ (Top 10% Globally)**.
-
-🎓 **B.Tech in Electronics Engineering (2024)**
-
-
 ## 📫 Connect With Me
 
 📧 Email: [avanishguptaaza@gmail.com](mailto:avanishguptaaza@gmail.com)
