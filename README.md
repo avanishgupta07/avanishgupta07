@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Avanish Kumar Gupta
+# 👋 Hi, I'm Avanish
 
 ### Full Stack Developer | Next.js • Node.js • PostgreSQL • AWS
 
