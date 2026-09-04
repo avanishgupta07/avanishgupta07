@@ -3,6 +3,7 @@
 ### Full Stack Developer · Next.js · Node.js · PostgreSQL · AWS
 
 
+
 I'm a **Full Stack Developer** with 1+ year of experience building **scalable, secure, and high-performance web applications**.
 
 I specialize in modern JavaScript technologies and enjoy working across the entire stack — from creating intuitive frontend experiences to designing efficient backend systems and deploying production applications on AWS.
