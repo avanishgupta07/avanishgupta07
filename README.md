@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Avanish
+#  Hi, I'm Avanish 👋
 
 ### Full Stack Developer · Next.js · Node.js · PostgreSQL · AWS
 
@@ -26,8 +26,6 @@ I specialize in modern JavaScript technologies and enjoy working across the enti
 
 ## 💡 What I Enjoy
 
-> **Building reliable systems, solving complex problems, and turning ideas into production-ready applications.**
-
 I particularly enjoy backend architecture, database optimization, API design, cloud deployment, and improving application performance.
 
 ---
@@ -36,10 +34,3 @@ I particularly enjoy backend architecture, database optimization, API design, cl
 
 📧 **Email:** [avanishguptaaza@gmail.com](mailto:avanishguptaaza@gmail.com)
 
-💬 Feel free to reach out if you'd like to **collaborate, discuss technology, or build something interesting together.**
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
