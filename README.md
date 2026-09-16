@@ -1,36 +1,37 @@
-#  Hi, I'm Avanish 👋
+👋 Avanish Kumar Gupta
+Software Development Engineer · Full Stack Developer
 
-### Full Stack Developer · Next.js · Node.js · PostgreSQL · AWS
+Building scalable web applications, backend services, and production-ready APIs.
 
+I work primarily with Next.js, React.js, Node.js, Express.js, PostgreSQL, MongoDB, Redis, and AWS, with a focus on backend engineering, API design, database optimization, authentication, performance, and cloud deployment.
 
+🛠️ Tech Stack
 
-I'm a **Full Stack Developer** with 1+ year of experience building **scalable, secure, and high-performance web applications**.
+💻 Languages
+JavaScript TypeScript C++ Python Java
 
-I specialize in modern JavaScript technologies and enjoy working across the entire stack — from creating intuitive frontend experiences to designing efficient backend systems and deploying production applications on AWS.
+🎨 Frontend
+React.js Next.js HTML Tailwind CSS
 
----
+⚙️ Backend
+Node.js Express.js REST APIs Spring Boot
 
-## 🚀 About Me
+🗄️ Database
+PostgreSQL MongoDB MySQL Redis
 
-* 💻 Building full-stack applications with **Next.js, React & Node.js**
-* 🔧 Developing scalable **REST APIs** with Express.js
-* 🗄️ Designing and optimizing **PostgreSQL & MySQL** databases
-* ⚡ Using **Redis** for caching and performance optimization
-* 🔐 Implementing authentication and secure application architecture
-* ☁️ Deploying applications and infrastructure with **AWS**
-* 🔄 Working with **CI/CD and cloud deployments**
-* 📈 Focused on performance, scalability, and clean architecture
+☁️ DevOps
+AWS Git GitHub Actions Jenkins CI/CD Linux
 
----
+🧠 Problem Solving
 
+700+ DSA Problems Solved · Codeforces 1600+
+🏆 LeetCode Weekly Contest 516 — Rank 322
 
-## 💡 What I Enjoy
+🔗 Connect
 
-I particularly enjoy backend architecture, database optimization, API design, cloud deployment, and improving application performance.
+📧 Email: avanishguptaaza@gmail.com
+💼 LinkedIn: linkedin.com/in/avanish-kumar-gupta-332947409
+🐙 GitHub: github.com/avanishgupta07
+🧩 LeetCode: leetcode.com/u/avanishguptaaza
 
----
-
-## 📫 Let's Connect
-
-📧 **Email:** [avanishguptaaza@gmail.com](mailto:avanishguptaaza@gmail.com)
-
+⚡ Build · Learn · Solve · Ship
