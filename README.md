@@ -62,13 +62,7 @@ Full Stack Software Development Engineer specializing in **backend architecture*
 
 ---
 
-## 🏆 Achievements
 
-- **700+** DSA Problems Solved
-- **Codeforces Rating:** 1600+ (Expert Level)
-- **LeetCode Weekly Contest 516:** Rank 322
-
----
 
 ## 📈 What I Focus On
 
